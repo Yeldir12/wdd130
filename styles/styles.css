@@ -138,3 +138,16 @@ h4 {
     border-bottom: 10px solid black;
     padding-bottom: 50px;
 }
+
+#center-wrapper {
+    text-align: center;
+}
+
+#client_link {
+    color: white;
+    text-decoration: underline;
+}
+
+.missing {
+    color: red;
+}
